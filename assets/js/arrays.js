@@ -1,0 +1,123 @@
+export const propiedadesVenta = [
+  {
+    nombre: "Casa moderna con jardín",
+    src: "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+    descripcion: "Hermosa casa familiar con jardín, piscina y excelente iluminación.",
+    ubicacion: "Av. Los Robles 245, Santiago",
+    habitaciones: 4,
+    banos: 3,
+    costo: 6200,
+    smoke: false,
+    pets: true,
+  },
+
+  {
+    nombre: "Departamento ejecutivo",
+    src: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
+    descripcion: "Departamento moderno cercano a estaciones de metro y comercios.",
+    ubicacion: "Providencia, Santiago",
+    habitaciones: 2,
+    banos: 2,
+    costo: 3500,
+    smoke: true,
+    pets: false,
+  },
+
+  {
+    nombre: "Penthouse panorámico",
+    src: "https://images.unsplash.com/photo-1494526585095-c41746248156?w=800",
+    descripcion: "Penthouse con terraza privada y vista a toda la ciudad.",
+    ubicacion: "Las Condes, Santiago",
+    habitaciones: 3,
+    banos: 3,
+    costo: 8900,
+    smoke: false,
+    pets: true,
+  },
+
+  {
+    nombre: "Casa campestre",
+    src: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+    descripcion: "Amplios espacios verdes ideales para la familia.",
+    ubicacion: "Pirque",
+    habitaciones: 5,
+    banos: 4,
+    costo: 7600,
+    smoke: true,
+    pets: true,
+  },
+
+  {
+    nombre: "Loft de lujo",
+    src: "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
+    descripcion: "Diseño industrial con terminaciones premium.",
+    ubicacion: "Ñuñoa",
+    habitaciones: 2,
+    banos: 2,
+    costo: 4700,
+    smoke: false,
+    pets: false,
+  },
+];
+
+export const propiedadesAlquiler = [
+  {
+    nombre: "Departamento urbano",
+    src: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+    descripcion: "Ideal para estudiantes y profesionales.",
+    ubicacion: "Santiago Centro",
+    habitaciones: 2,
+    banos: 1,
+    costo: 950,
+    smoke: false,
+    pets: true,
+  },
+
+  {
+    nombre: "Condominio moderno",
+    src: "https://images.unsplash.com/photo-1460317442991-0ec209397118?w=800",
+    descripcion: "Excelente ubicación y seguridad 24 horas.",
+    ubicacion: "La Florida",
+    habitaciones: 3,
+    banos: 2,
+    costo: 1200,
+    smoke: true,
+    pets: true,
+  },
+
+  {
+    nombre: "Studio minimalista",
+    src: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
+    descripcion: "Perfecto para una persona o pareja.",
+    ubicacion: "Providencia",
+    habitaciones: 1,
+    banos: 1,
+    costo: 780,
+    smoke: false,
+    pets: false,
+  },
+
+  {
+    nombre: "Casa familiar",
+    src: "https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=800",
+    descripcion: "Barrio tranquilo cercano a colegios.",
+    ubicacion: "Maipú",
+    habitaciones: 4,
+    banos: 3,
+    costo: 1600,
+    smoke: true,
+    pets: true,
+  },
+
+  {
+    nombre: "Departamento con terraza",
+    src: "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800",
+    descripcion: "Hermosa vista y excelente conectividad.",
+    ubicacion: "San Miguel",
+    habitaciones: 2,
+    banos: 2,
+    costo: 1100,
+    smoke: false,
+    pets: true,
+  },
+];
