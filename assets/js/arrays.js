@@ -1,7 +1,7 @@
 export const propiedadesVenta = [
   {
     nombre: "Casa moderna con jardín",
-    src: "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=800",
+    src: "https://imanquehue.com/content/uploads/casas-estilo-chilenas.jpg",
     descripcion: "Hermosa casa familiar con jardín, piscina y excelente iluminación.",
     ubicacion: "Av. Los Robles 245, Santiago",
     habitaciones: 4,
@@ -13,7 +13,7 @@ export const propiedadesVenta = [
 
   {
     nombre: "Departamento ejecutivo",
-    src: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
+    src: "https://http2.mlstatic.com/D_770589-MLC80201170922_112024-O.webp",
     descripcion: "Departamento moderno cercano a estaciones de metro y comercios.",
     ubicacion: "Providencia, Santiago",
     habitaciones: 2,
@@ -25,7 +25,7 @@ export const propiedadesVenta = [
 
   {
     nombre: "Penthouse panorámico",
-    src: "https://images.unsplash.com/photo-1494526585095-c41746248156?w=800",
+    src: "https://images2.mega.cl/meganoticias/2025/10/23/503365_3_68fa118de6de4.jpg",
     descripcion: "Penthouse con terraza privada y vista a toda la ciudad.",
     ubicacion: "Las Condes, Santiago",
     habitaciones: 3,
@@ -37,7 +37,7 @@ export const propiedadesVenta = [
 
   {
     nombre: "Casa campestre",
-    src: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800",
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSncFZxX_OVentCBiz2fH3puwUXepeY4Li7dB9kdLrSO2oMwOGa6Duu5K1o&s=10",
     descripcion: "Amplios espacios verdes ideales para la familia.",
     ubicacion: "Pirque",
     habitaciones: 5,
@@ -49,11 +49,11 @@ export const propiedadesVenta = [
 
   {
     nombre: "Loft de lujo",
-    src: "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
+    src: "https://a0.muscache.com/im/pictures/hosting/Hosting-38930408/original/dd1a5371-c301-449a-9560-7408a6e4c37d.jpeg",
     descripcion: "Diseño industrial con terminaciones premium.",
     ubicacion: "Ñuñoa",
-    habitaciones: 2,
-    banos: 2,
+    habitaciones: 1,
+    banos: 1,
     costo: 4700,
     smoke: false,
     pets: false,
@@ -63,9 +63,9 @@ export const propiedadesVenta = [
 export const propiedadesAlquiler = [
   {
     nombre: "Departamento urbano",
-    src: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800",
+    src: "https://icom.cl/macul/wp-content/uploads/2023/09/fachada-macul.jpg",
     descripcion: "Ideal para estudiantes y profesionales.",
-    ubicacion: "Santiago Centro",
+    ubicacion: "Macul",
     habitaciones: 2,
     banos: 1,
     costo: 950,
@@ -75,7 +75,7 @@ export const propiedadesAlquiler = [
 
   {
     nombre: "Condominio moderno",
-    src: "https://images.unsplash.com/photo-1460317442991-0ec209397118?w=800",
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT44NzfGJoVX2tT1_YdNh0Dp_aShAwkoaYaZroiFuo5xWHJjjH9z2imqJk&s=10",
     descripcion: "Excelente ubicación y seguridad 24 horas.",
     ubicacion: "La Florida",
     habitaciones: 3,
@@ -87,7 +87,7 @@ export const propiedadesAlquiler = [
 
   {
     nombre: "Studio minimalista",
-    src: "https://images.unsplash.com/photo-1505693416388-ac5ce068fe85?w=800",
+    src: "https://hub.cl/wp-content/uploads/2020/03/HUBPROVIDENCIA_STANDARDSTUDIO_04.jpg",
     descripcion: "Perfecto para una persona o pareja.",
     ubicacion: "Providencia",
     habitaciones: 1,
@@ -99,7 +99,7 @@ export const propiedadesAlquiler = [
 
   {
     nombre: "Casa familiar",
-    src: "https://images.unsplash.com/photo-1576941089067-2de3c901e126?w=800",
+    src: "https://www.toppropiedades.cl/imagenes/b_c241u517co7062e6.jpg",
     descripcion: "Barrio tranquilo cercano a colegios.",
     ubicacion: "Maipú",
     habitaciones: 4,
@@ -111,7 +111,7 @@ export const propiedadesAlquiler = [
 
   {
     nombre: "Departamento con terraza",
-    src: "https://images.unsplash.com/photo-1493809842364-78817add7ffb?w=800",
+    src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnf3LA7Me4lOYNN9QuYJE4D--5kl8fDUR6BCQGynH04ygBFLN__sR3UJmh&s=10",
     descripcion: "Hermosa vista y excelente conectividad.",
     ubicacion: "San Miguel",
     habitaciones: 2,
