@@ -1,0 +1,195 @@
+/* ===========================
+   ESTILOS GENERALES
+=========================== */
+
+body{
+    background-color:#f5f7fa;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ===========================
+   NAVBAR
+=========================== */
+
+.navbar{
+    background: linear-gradient(90deg,#0f172a,#1e3a8a)!important;
+}
+
+.navbar-brand,
+.nav-link{
+    color:white !important;
+    font-weight:600;
+}
+
+.nav-link:hover{
+    color:#facc15 !important;
+}
+
+/* ===========================
+   BANNER
+=========================== */
+
+.main-section{
+    background-image:url("../img/img-main.jpeg");
+    background-size:cover;
+    background-position:center;
+    height:380px;
+
+    display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
+.main-section h1{
+    background:rgba(0,0,0,.45);
+    padding:20px 35px;
+    border-radius:12px;
+    font-size:2.8rem;
+    font-weight:bold;
+}
+
+/* ===========================
+   TITULOS
+=========================== */
+
+h2{
+    color:#1e3a8a;
+    font-weight:bold;
+    margin-bottom:25px;
+}
+
+/* ===========================
+   TARJETAS
+=========================== */
+
+.card{
+
+    border:none;
+
+    border-radius:18px;
+
+    overflow:hidden;
+
+    transition:.35s;
+
+    box-shadow:0 8px 18px rgba(0,0,0,.15);
+
+    height:100%;
+
+}
+
+.card:hover{
+
+    transform:translateY(-8px);
+
+    box-shadow:0 18px 35px rgba(0,0,0,.25);
+
+}
+
+.card img{
+
+    height:240px;
+
+    object-fit:cover;
+
+}
+
+.card-title{
+
+    color:#1e3a8a;
+
+    font-weight:bold;
+
+}
+
+.card-text{
+
+    color:#555;
+
+}
+
+/* ===========================
+   ICONOS
+=========================== */
+
+.fa-map-marker-alt{
+
+    color:#dc3545;
+
+}
+
+.fa-bed{
+
+    color:#2563eb;
+
+}
+
+.fa-bath{
+
+    color:#14b8a6;
+
+}
+
+/* ===========================
+   BOTONES
+=========================== */
+
+.btn{
+
+    margin-top:15px;
+
+    border-radius:10px;
+
+    padding:10px 25px;
+
+    transition:.3s;
+
+}
+
+.btn-dark{
+
+    background:#198754;
+
+    border:none;
+
+}
+
+.btn-dark:hover{
+
+    background:#146c43;
+
+}
+
+/* ===========================
+   MENSAJES
+=========================== */
+
+.text-success{
+
+    font-weight:bold;
+
+}
+
+.text-danger{
+
+    font-weight:bold;
+
+}
+
+/* ===========================
+   FOOTER (por si luego agregas uno)
+=========================== */
+
+footer{
+
+    margin-top:50px;
+
+    padding:25px;
+
+    text-align:center;
+
+    background:#0f172a;
+
+    color:white;
+
+}
